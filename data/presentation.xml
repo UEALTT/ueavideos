@@ -1,0 +1,301 @@
+<?xml version="1.0"?>
+<presentation title="main-pres" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{12204ED7-DB03-44DA-A073-6C7C283A0C95}">
+	<presenters/>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets/>
+	<playlists/>
+	<narration/>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<currentTemplate baseId="CONTENT_ONLY"/>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>false</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>false</showPlayPause>
+				<showRewind>false</showRewind>
+				<showVolumeControl>false</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>false</showPrevButton>
+				<showNextButton>false</showNextButton>
+				<showSlideOnlyButton>false</showSlideOnlyButton>
+				<progressBar>
+					<visible>false</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>false</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>false</numberEntries>
+				<highlightViewedEntries>false</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>false</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>false</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="96797" advanceOnTime="0" framesCount="3647" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1b84b020.spr0_502265623" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b84b020.spr2_502265623" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="3646" playTime="151.9166667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Advice from Students for Students
+Taken from ‘Study Skills for International Students’ this video highlights advice from students on what they have learned studying in the UK.
+NOW PLAYING</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="97559" advanceOnTime="0" framesCount="2698" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1ad0dbc0.spr0_502266575" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ad0dbc0.spr2_502266575" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2697" playTime="112.3750000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Advice from Academics for Students
+Taken from ‘Study Skills for International Students’ this video highlights advice from academics for international students.
+NOW PLAYING</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="7922" advanceOnTime="0" framesCount="593" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1a99ec88.spr0_502268026" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1a99ec88.spr2_502268026" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="592" playTime="24.6666667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Media Suite Induction
+Highlights of an induction video used for the University of East Anglia’s media suite facility.
+NOW PLAYING</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7917" advanceOnTime="0" framesCount="714" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1aaaeeb0.spr0_502268931" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1aaaeeb0.spr2_502268931" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="713" playTime="29.7083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Prenuptial Agreements
+Highlight from module video on prenuptial agreements and how they are assessed in law.
+NOW PLAYING</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="8026" advanceOnTime="0" framesCount="1367" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1aef8aa8.spr0_502269757" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1aef8aa8.spr2_502269757" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1366" playTime="56.9166667" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>British Heritage
+An example of location based shooting for an online course developed in association with the Sainsbury Institute for the Study of Japanese Arts and Cultures.
+NOW PLAYING</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="7944" advanceOnTime="0" framesCount="1242" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_14f4b810.spr0_502270631" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_14f4b810.spr2_502270631" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1241" playTime="51.7083333" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Study Abroad
+A presentation on study aboard opportunities in the Faculty of Humanities at the University of East Anglia.
+NOW PLAYING</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="7933" advanceOnTime="0" framesCount="694" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_240c0838.spr0_502271598" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_240c0838.spr2_502271598" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="693" playTime="28.8750000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Classification of Stroke
+This video on the Oxford or Bamford classification of stroke combines live filming as well as complex medical animations. 
+NOW PLAYING</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="7972" advanceOnTime="0" framesCount="1675" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_2441c748.spr0_502272425" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2441c748.spr2_502272425" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1674" playTime="69.7500000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Introduction to Screenwriting
+Trailer taken from the FutureLearn online course ‘An Introduction to Screenwriting’ written by Michael Lengsfield.
+NOW PLAYING</text>
+		</slide>
+	</slides>
+</presentation>
