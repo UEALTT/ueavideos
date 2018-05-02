@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="main-pres" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{12204ED7-DB03-44DA-A073-6C7C283A0C95}">
+<presentation title="main-pres" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{DC5C3E8C-8FAD-45FD-84F6-4B2E77B2EFF3}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,10 +137,10 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="96797" advanceOnTime="0" framesCount="3647" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="96798" advanceOnTime="0" framesCount="3647" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video0" videoClipId="ispring.resources_1b84b020.spr0_502265623" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b84b020.spr2_502265623" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video0" videoClipId="ispring.resources_18cf2770.spr0_504720876" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18cf2770.spr2_504720876" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -153,14 +153,14 @@
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Advice from Students for Students
+			<text>Advice from Students for Students (2:32)
 Taken from ‘Study Skills for International Students’ this video highlights advice from students on what they have learned studying in the UK.
 NOW PLAYING</text>
 		</slide>
-		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="97559" advanceOnTime="0" framesCount="2698" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="97553" advanceOnTime="0" framesCount="2698" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video1" videoClipId="ispring.resources_1ad0dbc0.spr0_502266575" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ad0dbc0.spr2_502266575" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_18470c08.spr0_504722077" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18470c08.spr2_504722077" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -173,14 +173,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Advice from Academics for Students
+			<text>Advice from Teachers for Students (1.52)
 Taken from ‘Study Skills for International Students’ this video highlights advice from academics for international students.
 NOW PLAYING</text>
 		</slide>
-		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="7922" advanceOnTime="0" framesCount="593" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="7925" advanceOnTime="0" framesCount="593" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video2" videoClipId="ispring.resources_1a99ec88.spr0_502268026" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1a99ec88.spr2_502268026" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_1edea370.spr0_504723622" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1edea370.spr2_504723622" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -193,14 +193,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Media Suite Induction
+			<text>Media Suite Induction (0.25)
 Highlights of an induction video used for the University of East Anglia’s media suite facility.
 NOW PLAYING</text>
 		</slide>
-		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7917" advanceOnTime="0" framesCount="714" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="7920" advanceOnTime="0" framesCount="714" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video3" videoClipId="ispring.resources_1aaaeeb0.spr0_502268931" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1aaaeeb0.spr2_502268931" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_1edea8f0.spr0_504724371" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1edea8f0.spr2_504724371" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -213,14 +213,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Prenuptial Agreements
+			<text>Prenuptial Agreements (0.30)
 Highlight from module video on prenuptial agreements and how they are assessed in law.
 NOW PLAYING</text>
 		</slide>
 		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="8026" advanceOnTime="0" framesCount="1367" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video4" videoClipId="ispring.resources_1aef8aa8.spr0_502269757" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1aef8aa8.spr2_502269757" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video4" videoClipId="ispring.resources_17eb32e0.spr0_504725260" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_17eb32e0.spr2_504725260" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -233,14 +233,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>British Heritage
+			<text>British Heritage (0.57)
 An example of location based shooting for an online course developed in association with the Sainsbury Institute for the Study of Japanese Arts and Cultures.
 NOW PLAYING</text>
 		</slide>
-		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="7944" advanceOnTime="0" framesCount="1242" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="7950" advanceOnTime="0" framesCount="1242" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video5" videoClipId="ispring.resources_14f4b810.spr0_502270631" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_14f4b810.spr2_502270631" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video5" videoClipId="ispring.resources_1ee6e8c8.spr0_504726133" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ee6e8c8.spr2_504726133" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -253,14 +253,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Study Abroad
+			<text>Study Abroad (0.52)
 A presentation on study aboard opportunities in the Faculty of Humanities at the University of East Anglia.
 NOW PLAYING</text>
 		</slide>
-		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="7933" advanceOnTime="0" framesCount="694" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="7942" advanceOnTime="0" framesCount="694" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video6" videoClipId="ispring.resources_240c0838.spr0_502271598" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_240c0838.spr2_502271598" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video6" videoClipId="ispring.resources_17eb3660.spr0_504727101" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_17eb3660.spr2_504727101" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -273,14 +273,14 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Classification of Stroke
+			<text>Classification of Stroke (0.29)
 This video on the Oxford or Bamford classification of stroke combines live filming as well as complex medical animations. 
 NOW PLAYING</text>
 		</slide>
-		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="7972" advanceOnTime="0" framesCount="1675" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="7975" advanceOnTime="0" framesCount="1675" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video7" videoClipId="ispring.resources_2441c748.spr0_502272425" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2441c748.spr2_502272425" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video7" videoClipId="ispring.resources_1ef4bee0.spr0_504727912" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ef4bee0.spr2_504727912" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
@@ -293,7 +293,7 @@ NOW PLAYING</text>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>Introduction to Screenwriting
+			<text>Introduction to Screenwriting (1.10)
 Trailer taken from the FutureLearn online course ‘An Introduction to Screenwriting’ written by Michael Lengsfield.
 NOW PLAYING</text>
 		</slide>
